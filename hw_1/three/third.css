@@ -1,0 +1,64 @@
+.nav-purple{
+    background-color: purple;
+    height: 120px;
+}
+
+.wrapper{
+    display: flex;
+}
+
+.middle-red{
+    background-color: red;
+    height: 1200px;
+    width: 1000px;
+    padding-top: 5%;
+    margin: 0 auto;
+}
+
+.top-blue{
+    background-color: blue;
+    height: 300px;
+    width: 700px;
+    bottom: 30px;
+    margin: 0 auto;
+    position: relative;
+}
+
+
+.middle-blue{
+    background-color: blue;
+    height: 300px;
+    width: 700px;
+    top: 50px;
+    bottom: 30px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.bottom-blue{
+    background-color: blue;
+    height: 300px;
+    width: 700px;
+    top: 140px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.green{
+   width: 60%;
+    height: 250px;
+    background-color: #008000;
+    display: inline-block;
+    float: right;
+    margin: 20px;
+}
+
+.yellow{
+  width: 25%;
+    height: 200px;
+    background-color: #ffff00;
+    display: inline-block;
+    float: left;
+    margin: 30px;
+}
+
